@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="boton">200dp</dimen>
+    <dimen name="margen">60dp</dimen>
+    <dimen name="card_height">80dp</dimen>
+    <dimen name="common_padding_default">16dp</dimen>
+    <dimen name="card_image_size">40dp</dimen>
+    <dimen name="common_margin_min">8dp</dimen>
+    <dimen name="larguito">260dp</dimen>
+    <dimen name="lar">20dp</dimen>
+</resources>
